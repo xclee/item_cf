@@ -89,4 +89,4 @@ if __name__ == "__main__":
         os._exit(0)
 
     item = ItemCF(filepath)
-    item.recommend('A')
+    item.recommend('2')
